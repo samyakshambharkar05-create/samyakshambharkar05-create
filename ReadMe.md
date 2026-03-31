@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a student, pursuing my degree in the field of Electronics and Telecommunication.
-Currently in 3rd year, have bit knowledge about Web development and Machine learning.
+Pre final year student, pursuing degree in the field of Electronics and Telecommunication.
+Suryodaya College of Eng & Tech (RTMNU).
+Interest in Electronics, IoT, Machine Learning and Data Analysis.
+
+
 
 
 ## 🌐 Socials:
