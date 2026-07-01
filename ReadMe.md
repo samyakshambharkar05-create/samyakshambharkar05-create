@@ -1,7 +1,8 @@
 # 💫 About Me:
-Pre final year student, pursuing degree in the field of Electronics and Telecommunication.
+Final year student, pursuing degree in the field of Electronics and Telecommunication.
 Suryodaya College of Eng & Tech (RTMNU).
-Interest in Electronics, IoT, Machine Learning and Data Analysis.
+Passonate about AI/ML and DL.
+Strong knowledge in Electronics, IoT, and Data Analysis.
 
 
 
